@@ -50,3 +50,5 @@ Our team examined the **MTA Automated Camera Enforcement (ACE) dataset** (tens o
 - Data showed **cross-town routes** (like M34) sometimes outperforming expected “flagship” routes  
 
 ACE enforcement speeds buses, but gaps (especially exempt vehicle behavior, equity issues, and enforcement consistency) still slow NYC transit. Pairing cameras with physical design, higher penalties, and accessibility-first policies will help buses move faster and fairer.  
+
+**LINK TO VIDEO:** https://youtu.be/WF67d6-HHjo
