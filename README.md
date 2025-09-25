@@ -20,7 +20,7 @@ Our team examined the **MTA Automated Camera Enforcement (ACE) dataset** (tens o
 ---
 
 ## 3. Key Findings  
-- **Exempt vehicles drive repeat violations**: Ambulances and commercial trucks under 20 ft make up a large share of recurring offenders.  
+- **Exempt vehicles drive repeat violations**: Ambulances and commercial trucks under 20 make up a large share of recurring offenders.  
 - **Hotspot routes** for repeat exempt violators:  
   - **M101** – ~1,516 violations  
   - **Bx36** – ~1,332 violations  
