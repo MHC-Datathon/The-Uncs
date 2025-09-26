@@ -22,8 +22,8 @@ Our team examined the **MTA Automated Camera Enforcement (ACE) dataset** (tens o
 ## 3. Key Findings  
 - **Exempt vehicles drive repeat violations**: Ambulances and commercial trucks under 20 make up a large share of recurring offenders.  
 - **Hotspot routes** for repeat exempt violators:  
-  - **M101** – ~1,516 violations  
-  - **Bx36** – ~1,332 violations  
+  - **M101** – ~5,526 violations  
+  - **Bx36** – ~1,378 violations  
   - **Q54** – ~814 violations  
 -  Exempt violations are heavily concentrated in **Mid-Town Manhattan**, especially along corridors like **3rd Avenue (M101)** and **14th Street Busway (M14)**. Bronx (Bx36) and Queens (Q54) also show repeat exempt violators.  
 -  Vehicle volumes dropped, but violations increased again - suggesting wealthy drivers treat fines as a **cost of convenience**.   
